@@ -23,3 +23,16 @@
 	color: #333;
 	background-color: #fff;
 }
+
+.content {
+	height: 100%;
+	background-color: #fff;
+}
+
+.item-goods{
+	height: 30px;
+	color: #434343;
+	margin-left: 1rem;
+	padding: 1rem;
+	border-bottom: 1px solid #ddd;
+}
