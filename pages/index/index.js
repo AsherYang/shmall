@@ -36,7 +36,6 @@ Page({
     curNav: 1,
     curIndex: 0,
 
-    touchStart: 0,
   },
 
   // 界面显示后，计算实际屏幕的宽高
