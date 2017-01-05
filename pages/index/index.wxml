@@ -23,7 +23,7 @@
 
     <!--item goods-->
     <scroll-view scroll-y="true" class="content flex-item" style="height:{{windowHeight}}px;" bindscrolltolower="onLoadMore">
-      <block wx:for="{{navList}}" wx:key="unique">
+      <block wx:for="{{goodsList}}" wx:key="unique">
            <view class="item-goods flex-wrap flex-direction-row">
               <text>{{item.name}}, {{item.name}}</text>
            </view>

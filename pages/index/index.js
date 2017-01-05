@@ -26,11 +26,28 @@ Page({
       { id: 3, name: "啤酒" },
       { id: 4, name: "巧克力" },
       { id: 5, name: "香烟" },
-      { id: 1, name: '辣条' },
-      { id: 2, name: "方便面" },
-      { id: 3, name: "啤酒" },
-      { id: 4, name: "巧克力" },
-      { id: 5, name: "香烟" },
+    ],
+    
+    goodsList: [
+      { id: 1, name: '1111' },
+      { id: 2, name: "2222" },
+      { id: 3, name: "3333" },
+      { id: 4, name: "4444" },
+      { id: 5, name: "5555" },
+      { id: 1, name: '6666' },
+      { id: 2, name: "7777" },
+      { id: 3, name: "8888" },
+      { id: 4, name: "9999" },
+      { id: 5, name: "0000" },
+      { id: 1, name: '0101' },
+      { id: 2, name: "0202" },
+      { id: 3, name: "0303" },
+      { id: 4, name: "0404" },
+      { id: 5, name: "0505" },
+      { id: 1, name: '0606' },
+      { id: 2, name: "0707" },
+      { id: 3, name: "0808" },
+      { id: 4, name: "0909" },
     ],
 
     curNav: 1,
@@ -72,7 +89,5 @@ Page({
     // 隐藏导航条加载动画
     // wx.hideNavigationBarLoading();
   }
-
-
 
 })

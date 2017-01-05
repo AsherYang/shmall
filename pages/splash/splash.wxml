@@ -1,0 +1,1 @@
+<image src="{{splashImg}}" style="width: {{imagewidth}}px; height: {{imageheight}}px;" bindload="imgLoad" />
