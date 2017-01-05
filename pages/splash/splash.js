@@ -14,9 +14,10 @@ Page({
 
     onShow:function(){
         console.log("---- onshow ----")
+        // 跳转
         setTimeout(function() {
             wx.redirectTo({
-            url: '../index/index',
+              url: '../index/index',
         })
         }, 2000)
     },
